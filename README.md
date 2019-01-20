@@ -1,4 +1,4 @@
-# GanJiang SQL Parser
+# GanJiang Loop Protect
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/dff0b2ee1b964d2d88fe6947c4f5c649)](https://app.codacy.com/app/taozhi8833998/js-loop-protect?utm_source=github.com&utm_medium=referral&utm_content=taozhi8833998/js-loop-protect&utm_campaign=Badge_Grade_Dashboard)
 [![](https://img.shields.io/badge/Powered%20by-ganjiang-brightgreen.svg)](https://github.com/taozhi8833998/js-loop-protect)
@@ -25,7 +25,7 @@
 ```javascript
 const LoopGuard = require('js-loop-protect').default
 const loopGuardIns = new LoopGuard({
-  max_loop_time: 10000, // 最多循环1wci
+  max_loop_time: 10000, // 最多循环1w次
   max_memory_used: 1024 // 内存使用量最大1G 单位是MB
 })
 const func = `async () => {
