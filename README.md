@@ -6,7 +6,7 @@
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/taozhi8833998/loop-protect/blob/master/LICENSE)
 [![npm version](https://badge.fury.io/js/js-loop-protect.svg)](https://badge.fury.io/js/js-loop-protect)
 [![NPM downloads](http://img.shields.io/npm/dm/js-loop-protect.svg?style=flat-square)](http://www.npmtrends.com/js-loop-protect)
-[![Coverage Status](https://img.shields.io/coveralls/github/taozhi8833998/loop-protect/master.svg)](https://coveralls.io/github/taozhi8833998/loop-protect?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/taozhi8833998/loop-protect/badge.svg?branch=master)](https://coveralls.io/github/taozhi8833998/loop-protect?branch=master)
 [![Dependencies](https://img.shields.io/david/taozhi8833998/loop-protect.svg)](https://img.shields.io/david/taozhi8833998/loop-protect)
 [![Known Vulnerabilities](https://snyk.io/test/github/taozhi8833998/loop-protect/badge.svg?targetFile=package.json)](https://snyk.io/test/github/taozhi8833998/loop-protect?targetFile=package.json)
 [![issues](https://img.shields.io/github/issues/taozhi8833998/loop-protect.svg)](https://github.com/taozhi8833998/loop-protect/issues)
