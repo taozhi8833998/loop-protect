@@ -13,5 +13,6 @@ describe('ganjiang loop protect', () => {
         console.log(i);
       }
     }`)
+    expect(newCodes).not.to.be.null
   })
 })
