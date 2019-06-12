@@ -11,7 +11,7 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/taozhi8833998/loop-protect/badge.svg?targetFile=package.json)](https://snyk.io/test/github/taozhi8833998/loop-protect?targetFile=package.json)
 [![issues](https://img.shields.io/github/issues/taozhi8833998/loop-protect.svg)](https://github.com/taozhi8833998/loop-protect/issues)
 
-**Parse simple SQL statements into an abstract syntax tree (AST) with the visited tableList and convert it back to SQL.**
+**For or While loop protect by time and memory**
 
 ## :star: Features
 
